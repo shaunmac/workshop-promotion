@@ -19,6 +19,10 @@ Described best as top section of the website, a tiny index that should give you 
 
 
 ## Footer
+![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/footer.jpg "Logo top links below")
+
+---
+
 Sitting below everything on the page, the footer acts similar to the header. Giving options to subscribe and follow.
 
 ### Contents of component
@@ -27,14 +31,15 @@ Sitting below everything on the page, the footer acts similar to the header. Giv
 - Follow
 - Navigation
 
-![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/footer.jpg "Logo top links below")
-
-
 # Content Components
 Elements for use in the main section of landing page templates. Containing unique content and imagery, that cannot be further replicated recursively.
 
 
 ## Content Address
+![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/content_address.jpg "Logo top")
+
+---
+
 Display information about the location and contact details of the organization.
 
 ### Contents of component
@@ -42,5 +47,3 @@ Display information about the location and contact details of the organization.
 - Contact
 - Non Profit licence
 - Map
-
-![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/content_address.jpg "Logo top")

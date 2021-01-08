@@ -8,20 +8,37 @@ Design elements that will need to be constant across all pages of the site.
 ## Header
 Described best as top section of the website, a tiny index that should give you access to every corner of the site. Accessible almost all the time, hence the global title.
 
+### Contents of component
+- Logo
+- Menu Icon
+- Hidden Menu
+
 ![Image of the header](https://github.com/shaunmac/workshop-promotion/blob/master/images/header.jpg "Logo to the left menu icon to the right")
 
 
 ## Footer
-Sitting below everything on the page, the footer acts similar to the header. Giving more options to subscribe and search.
+Sitting below everything on the page, the footer acts similar to the header. Giving options to subscribe and follow.
+
+### Contents of component
+- Logo and copyright
+- Subscribe
+- Follow
+- Navigation
 
 ![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/footer.jpg "Logo top links below")
 
 
-## Content Components
+# Content Components
 Elements for use in the main section of landing page templates. Containing unique content and imagery, that cannot be further replicated recursively.
 
 
-### Content Address
-Contents of component:
+## Content Address
+Display information about the location and contact details of the organization.
+
+### Contents of component
+- Address
+- Contact
+- Non Profit licence
+- Map
 
 ![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/content_address.jpg "Logo top")

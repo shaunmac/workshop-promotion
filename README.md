@@ -47,3 +47,16 @@ Display information about the location and contact details of the organization.
 - Contact
 - Non Profit licence
 - Map
+
+## Content Banner
+![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/content_banner.jpg "Logo top")
+
+---
+
+Display visuals depicting tools.
+
+### Contents of component
+- Address
+- Contact
+- Non Profit licence
+- Map

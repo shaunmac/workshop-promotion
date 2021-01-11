@@ -6,11 +6,13 @@ Proposal for redesign of https://www.opensourceecology.org/ landing pages and si
 Design elements that will need to be constant across all pages of the site.
 
 ## Header
+`
 ![Image of the header](https://github.com/shaunmac/workshop-promotion/blob/master/images/header.jpg "Logo to the left menu icon to the right")
+`
 
 Described best as top section of the website, a tiny index that should give you access to every corner of the site. Accessible almost all the time, hence the global title.
 
-### Contents of component
+### Contents
 - Logo
 - Menu Icon
 - Hidden Menu
@@ -22,12 +24,11 @@ Described best as top section of the website, a tiny index that should give you 
 
 Sitting below everything on the page, the footer acts similar to the header. Giving options to subscribe and follow.
 
-### Contents of component
+### Contents
 - Logo and copyright
 - Subscribe
 - Follow
 - Navigation
-
 
 
 # Landing page Components
@@ -59,7 +60,7 @@ Display visuals depicting tools, with a smooth transition to next section.
 
 ### Contents
 - [Grid wave graphic ](https://graphicriver.net/item/gradient-network-wave-backgrounds/20262014?utm_source=Iterable&utm_medium=email&utm_campaign=market_email_blast_m_ffom_engaged_jan5_2021)
-- Tools background
+- [Tools background](https://unsplash.com/photos/NL_DF0Klepc)
 
 ## Address
 

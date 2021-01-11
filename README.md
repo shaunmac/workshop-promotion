@@ -32,7 +32,6 @@ Sitting below everything on the page, the footer acts similar to the header. Giv
 
 # Landing page Components
 ![Image of the Main page](https://github.com/shaunmac/workshop-promotion/blob/master/images/overview_landing.jpg "Over view of landing page")
-
 Elements for use in the main section of landing page templates. Containing unique content and imagery, that cannot be further replicated recursively.
 
 Components are in the order which they are placed on the main page.

@@ -6,7 +6,11 @@ Proposal for redesign of https://www.opensourceecology.org/ landing pages and si
 Design elements that will need to be constant across all pages of the site.
 
 ## Header
+<p align="center" style="background-color: #efefef;">
+
 ![Image of the header](https://github.com/shaunmac/workshop-promotion/blob/master/images/header.jpg "Logo to the left menu icon to the right")
+
+</p>
 
 Described best as top section of the website, a tiny index that should give you access to every corner of the site. Accessible almost all the time, hence the global title.
 
@@ -30,7 +34,10 @@ Sitting below everything on the page, the footer acts similar to the header. Giv
 
 
 # Landing page Components
-![Image of the Main page](https://github.com/shaunmac/workshop-promotion/blob/master/images/overview_landing.jpg "Over view of landing page") | Elements for use in the main section of landing page templates. Containing unique content and imagery, that cannot be further replicated recursively.
+
+![Image of the Main page](https://github.com/shaunmac/workshop-promotion/blob/master/images/overview_landing.jpg "Over view of landing page")
+
+Elements for use in the main section of landing page templates. Containing unique content and imagery, that cannot be further replicated recursively.
 
 Components are in the order which they are placed on the main page.
 

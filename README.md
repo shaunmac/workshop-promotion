@@ -6,11 +6,8 @@ Proposal for redesign of https://www.opensourceecology.org/ landing pages and si
 Design elements that will need to be constant across all pages of the site.
 
 ## Header
-<p align="center" style="display: block; background-color: #efefef;">
-
 ![Image of the header](https://github.com/shaunmac/workshop-promotion/blob/master/images/header.jpg "Logo to the left menu icon to the right")
 
-</p>
 
 Described best as top section of the website, a tiny index that should give you access to every corner of the site. Accessible almost all the time, hence the global title.
 
@@ -18,8 +15,7 @@ Described best as top section of the website, a tiny index that should give you 
 - Logo
 - Menu Icon
 - Hidden Menu
-
----
+x
 
 ## Footer
 ![Image of the footer](https://github.com/shaunmac/workshop-promotion/blob/master/images/footer.jpg "Logo top links below")

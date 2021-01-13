@@ -6,7 +6,7 @@ Proposal for redesign of https://www.opensourceecology.org/ landing pages and si
 Design elements that will need to be constant across all pages of the site.
 
 ## Header
-<p align="center" style="background-color: #efefef;">
+<p align="center" style="display: block; background-color: #efefef;">
 
 ![Image of the header](https://github.com/shaunmac/workshop-promotion/blob/master/images/header.jpg "Logo to the left menu icon to the right")
 
@@ -41,8 +41,9 @@ Elements for use in the main section of landing page templates. Containing uniqu
 
 Components are in the order which they are placed on the main page.
 
-## Build Camp Schedule
+## Build Camp CTA
 ![Image of Camp Schedule](https://github.com/shaunmac/workshop-promotion/blob/master/images/content_buildcamp.jpg "Over view of signup page")
+
 Visual representation for calendar dates and course info for each day.
 
 ### Contents
@@ -53,7 +54,7 @@ Visual representation for calendar dates and course info for each day.
 
 
 # Sign up page Components
-![Image of the Singup page](https://github.com/shaunmac/workshop-promotion/blob/master/images/overview_singup.jpg "Over view of signup page")
+![Image of the Singup page](https://github.com/shaunmac/workshop-promotion/blob/master/images/overview_signup.jpg "Over view of signup page")
 
 Graphical widgets that are used in the overall design for the sign up page
 
